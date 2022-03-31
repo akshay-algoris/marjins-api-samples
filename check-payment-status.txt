@@ -1,0 +1,20 @@
+Sample response for success payment
+
+{
+    "code": 200,
+    "message": "Payment Successful",
+    "data": {
+        "payment_details": {
+            "payment_gateway": "RAZORPAY",
+            "transaction_id": "pay_IYCPZWBFiIDyWV" //use this transaction id to sent on checkout api.
+        }
+    }
+}
+
+Sample response for failed payment
+
+{
+    "code": 400,
+    "message": "Payment Not Captured",
+    "data": {}
+}
