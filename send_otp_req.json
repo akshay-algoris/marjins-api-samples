@@ -1,0 +1,9 @@
+{
+    "code": 200,
+    "data": {
+        "resp": 1,
+        "cus_number": "+918547725730",
+        "token": "6d64d81111bca63dd258b28d809d4e9fe9c8415fbbc0bb65b1fd3caf703384301e3ab7e5c6c599f7557b2a4238623d4e2c03c7ddd58d3e20c6c497e8441a4a95",
+        "profile_update": true
+    }
+}
