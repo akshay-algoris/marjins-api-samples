@@ -1,6 +1,8 @@
 {
     "code": 200,
     "data": {
-        "razorpay_order_id": "order_I0NwLHvBBTjiEg"
+        "razorpay_order_id": "order_JDgWy88oy7vXvb",
+        "razor_key": "rzp_live_AvkLZseUMg8FOq",
+        "razor_secret": "BwzCpRrVdPG0UsW0w4mTxLWb"
     }
 }
