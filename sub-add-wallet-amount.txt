@@ -1,0 +1,17 @@
+sample successfull response
+{
+    "code": 200,
+    "msg": "Successfully Added Amout",
+    "data": {
+        "current_wallet_amt": "500.00"
+    }
+}
+
+sample response for incorrect payment details
+	
+{
+    "code": 401,
+    "msg": "Unauthorized Payment",
+    "data": []
+}
+	
